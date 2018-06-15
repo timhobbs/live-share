@@ -269,7 +269,7 @@ Having issues with joining? Check out [troubleshooting](../troubleshooting.md#sh
 
 ## Co-editing
 
-Once a guest has joined a collaboration session, all collaborators will immediately be able to see each other's edits and selections in real-time. All you need to do is pick a file from the file explorer and start editing. Both hosts and guests will see edits as you make them and can contribute themselves making it easy iterate and rapidly nail to down solutions.
+Once a guest has joined a collaboration session, all collaborators will immediately be able to see each other's edits and selections in real-time. All you need to do is pick a file from the file explorer and start editing. Both hosts and guests will see edits as you make them and can contribute themselves making it easy to iterate and rapidly nail down solutions.
 
 ![Screen shot showing co-editing](../media/vscode-coedit.png)
 
